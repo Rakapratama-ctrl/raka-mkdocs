@@ -30,7 +30,7 @@
 
 ![Setting](img/password anj.png)
 
-6.oh iya kalau kalian ingin mengubah akun kalian,kalian bisa ikut cara ini
+6.Oh iya kalau kalian ingin mengubah akun kalian,kalian bisa ikut cara ini
 
     1   .ketik https kalian yang ini di browser
 
